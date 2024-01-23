@@ -1,2 +1,15 @@
+/* CSS Styles for Main Content */
 
-/* Your CSS Code here. */
+/* Style the main element */
+.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+}
+
+/* Style the p element with the class hello-accio */
+.hello-accio {
+    color: #ffffff;
+    margin-left: 32px;
+    padding: 10px;
+}
